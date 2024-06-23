@@ -1,2 +1,4 @@
-# ESTABILIDAD-DE-TALUDES
-Uso del prompt para crear una calculadora de estabilidad de taludes
+# CALCULADORA DE FACTOR DE SEGURIDAD (ESTABILIDAD DE TALUDES)
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/NAHOMY-YESENIA-ALINSHON-PALOMINO-QUISPE/pen/jOoYmLw](https://codepen.io/NAHOMY-YESENIA-ALINSHON-PALOMINO-QUISPE/pen/jOoYmLw).
+
